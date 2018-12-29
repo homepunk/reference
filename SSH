@@ -1,0 +1,2 @@
+  #run ssh 
+  exec ssh-agent bash
